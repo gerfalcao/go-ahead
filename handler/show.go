@@ -1,4 +1,4 @@
-package opening
+package handler
 
 import (
 	"net/http"
